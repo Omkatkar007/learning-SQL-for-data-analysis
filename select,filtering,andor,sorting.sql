@@ -2,6 +2,7 @@ use ecom;
 select * from orders;
 
 --   selecting specific column 
+--   selecting specific column 
 select quantity, order_id from orders;
 
 -- filtering 
