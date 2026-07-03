@@ -1,53 +1,31 @@
-# MySQL Practice Repository
+# MySQL Basics Practice
 
-Welcome to my MySQL practice repository! This folder contains notes, syntax examples, and practice queries that I created while learning MySQL.
+This repository contains a beginner-friendly MySQL practice SQL file.
 
-## 📚 Topics Covered
+## Contents
 
-- Database Basics
-- Creating and Deleting Databases
-- Creating, Altering, and Dropping Tables
-- CRUD Operations (Create, Read, Update, Delete)
-- Data Types
-- Constraints
-- Operators
-- Functions
-- Sorting and Filtering
-- Aggregate Functions
-- GROUP BY and HAVING
-- Joins
-- Subqueries
-- Views
-- Indexes
-- Transactions
-- Stored Procedures
-- Triggers
+-   Basic MySQL theory (as comments)
+-   DDL, DML, DQL, DCL and TCL
+-   Database and table creation
+-   INSERT, SELECT, UPDATE, DELETE
+-   ALTER TABLE
+-   Commented DROP examples
 
-## 📂 Repository Structure
+## File
 
-Each topic may contain:
-- Theory
-- Syntax
-- Practice Queries
-- Exercises
+-   `mysql_basics_theory_and_syntax.sql`
 
-## 🎯 Goal
+## How to Use
 
-- Strengthen MySQL fundamentals.
-- Prepare for technical interviews and placements.
-- Build a structured SQL reference.
-- Track my learning progress.
+1.  Open the SQL file in MySQL Workbench.
+2.  Execute the queries step by step.
+3.  Modify the examples to practice.
 
-## 🛠️ Tools Used
+## Purpose
 
-- MySQL 8.x
-- MySQL Workbench
-- VS Code
+This project is intended for beginners who want to learn and practice
+MySQL syntax.
 
-## 📌 Note
+## License
 
-This repository is for learning and practice purposes. New topics and examples will be added as I continue learning.
-
----
-
-**Happy Learning! 🚀**
+Free to use for educational purposes.
