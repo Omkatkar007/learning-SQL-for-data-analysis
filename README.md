@@ -1,35 +1,28 @@
 # 🚀 MySQL Basics Practice
 
-A structured beginner-friendly repository for learning MySQL.
+A comprehensive beginner-friendly MySQL learning repository.
 
-## Features
+## Overview
 
--   Beginner friendly
--   Commented SQL
--   DDL, DML, DQL, DCL, TCL
+Structured SQL practice with comments.
 
-## Repository Structure
+## Topics
 
-``` text
-.
-├── mysql_basics_theory_and_syntax.sql
-└── README.md
-```
+-   DDL
+-   DML
+-   DQL
+-   DCL
+-   TCL
 
-## Topics Covered
+## Roadmap
 
--   CREATE
--   ALTER
--   INSERT
--   SELECT
--   UPDATE
--   DELETE
--   COMMIT
--   ROLLBACK
-
-## Future
-
+-   SQL Basics
 -   Joins
 -   Views
 -   Indexes
 -   Triggers
+-   Stored Procedures
+
+## License
+
+Educational use.
