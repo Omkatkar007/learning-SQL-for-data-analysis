@@ -1,28 +1,16 @@
-# 🚀 MySQL Basics Practice
+# MySQL Mastery
 
-A comprehensive beginner-friendly MySQL learning repository.
+Professional MySQL learning repository.
 
-## Overview
+## Goals
 
-Structured SQL practice with comments.
-
-## Topics
-
--   DDL
--   DML
--   DQL
--   DCL
--   TCL
+-   Learn SQL
+-   CRUD
+-   Interview prep
 
 ## Roadmap
 
--   SQL Basics
+-   Basics
 -   Joins
 -   Views
--   Indexes
 -   Triggers
--   Stored Procedures
-
-## License
-
-Educational use.
