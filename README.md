@@ -1,16 +1,11 @@
-# MySQL Mastery
+# MySQL Mastery Repository
 
 Professional MySQL learning repository.
 
-## Goals
+## Features
 
--   Learn SQL
--   CRUD
--   Interview prep
-
-## Roadmap
-
--   Basics
--   Joins
--   Views
--   Triggers
+-   Theory
+-   Syntax
+-   Practice
+-   Interview Questions
+-   Projects
