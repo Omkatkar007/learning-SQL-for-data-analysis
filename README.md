@@ -1,53 +1,26 @@
-# SQL for Data Analytics
+# 🚀 MySQL Mastery
 
-Welcome to my SQL learning repository.
+A complete roadmap and practice repository for MySQL.
 
-## About
+## Features
 
-This repository contains my notes, practice queries, and exercises while
-learning SQL for Data Analytics.
+-   Theory
+-   Syntax
+-   Practice
+-   Projects
+-   Interview Questions
 
-## Topics Covered
+## Roadmap
 
--   Database Basics
--   SELECT Statements
--   WHERE Clause
--   ORDER BY
--   LIMIT
--   Aggregate Functions
--   GROUP BY
--   HAVING
+-   Basics
+-   CRUD
 -   Joins
--   Subqueries
 -   Views
--   Indexes
--   Practice Problems
+-   Triggers
+-   Transactions
 
-## Tools
+## Projects
 
--   MySQL
--   MySQL Workbench
-
-## Repository Structure
-
--   `notes/` -- Concept notes
--   `practice/` -- SQL practice queries
--   `projects/` -- Mini SQL projects
-
-## Goal
-
-Build strong SQL skills for Data Analyst roles through consistent
-practice.
-
-## How to Use
-
-1.  Clone the repository.
-2.  Open the SQL files in MySQL Workbench.
-3.  Run the queries.
-4.  Compare results and practice regularly.
-
-## Author
-
-**Om Katkar**
-
-If you find this repository useful, consider giving it a ⭐.
+-   Student Management
+-   Banking
+-   E-Commerce
