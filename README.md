@@ -1,26 +1,27 @@
 # 🚀 MySQL Mastery
 
-A complete roadmap and practice repository for MySQL.
+A complete MySQL learning repository.
 
 ## Features
 
+-   Beginner friendly
 -   Theory
--   Syntax
 -   Practice
 -   Projects
--   Interview Questions
+-   Interview preparation
 
-## Roadmap
+## Repository Structure
 
--   Basics
--   CRUD
+-   SQL Basics
+-   DDL
+-   DML
+-   DQL
 -   Joins
 -   Views
 -   Triggers
 -   Transactions
+-   Projects
 
-## Projects
+## License
 
--   Student Management
--   Banking
--   E-Commerce
+MIT
