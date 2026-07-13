@@ -1,27 +1,4 @@
-# 🚀 MySQL Mastery
+# MySQL Mastery Portfolio
 
-A complete MySQL learning repository.
-
-## Features
-
--   Beginner friendly
--   Theory
--   Practice
--   Projects
--   Interview preparation
-
-## Repository Structure
-
--   SQL Basics
--   DDL
--   DML
--   DQL
--   Joins
--   Views
--   Triggers
--   Transactions
--   Projects
-
-## License
-
-MIT
+Professional MySQL repository with roadmap, projects, interview prep,
+and practice.
