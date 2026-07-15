@@ -1,4 +1,4 @@
-# MySQL Mastery Portfolio
+# 🚀 MySQL Mastery - Ultimate Portfolio Edition
 
-Professional MySQL repository with roadmap, projects, interview prep,
-and practice.
+Professional MySQL portfolio repository with roadmap, projects,
+interview preparation, and documentation.
