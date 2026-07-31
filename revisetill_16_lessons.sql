@@ -42,7 +42,7 @@ select quantity, product_name from warehouse_stock
 where quantity between 1 and 15 or (sku_code IN ('TECH-LAP-01', 'TECH-MON-04'));
 
 select quantity from warehouse_stock 
-order by quantity desc limit 5; 
+order by quantity desc limit 5;                     -- offset use to skip rows offset 5; skips first 5 rows 
 
 -- task 3 aggregation and metrics 
 -- 1.The total count of unique items tracked.
@@ -242,3 +242,7 @@ GROUP BY product_name;
 
 -- Turn safe updates back on
 SET SQL_SAFE_UPDATES = 1;
+
+alter table warehouse_stock
+add column delivery varchar(50), 
+modify item_id decimal (5,2);               
