@@ -1,69 +1,110 @@
-# MySQL Notes & Practice Repository
+# SQL Learning & Practice
 
-## Overview
+A collection of SQL concepts, queries, and practice exercises for learning and placement preparation.
 
-This repository contains beginner-to-advanced MySQL notes, syntax,
-examples, and practice queries.
+## 📚 Topics Covered
 
-## Topics
+- SQL Basics
+- Database and Table Creation
+- INSERT, UPDATE, DELETE
+- SELECT and WHERE
+- ORDER BY and GROUP BY
+- Aggregate Functions
+- HAVING
+- DISTINCT
+- LIMIT
+- LIKE and Wildcards
+- BETWEEN
+- IN / NOT IN
+- NULL Handling
+- CASE Statements
+- Joins
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - FULL OUTER JOIN
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Views
+- Constraints
+- Indexes
+- String Functions
+- Date and Time Functions
 
--   Database & Tables
--   CRUD Operations
--   Constraints
--   Keys
--   Joins
--   Aggregate Functions
--   GROUP BY / HAVING
--   Subqueries
--   Views
--   Indexes
--   Transactions
--   Stored Procedures
--   Triggers
+## 🛠️ SQL Dialects
 
-## Requirements
+The examples are primarily written for **MySQL**. Some syntax may differ in Oracle, PostgreSQL, SQL Server, or other databases.
 
--   MySQL 8.x (recommended)
--   MySQL Workbench or any SQL client
+## 📁 Suggested Repository Structure
 
-## Basic Commands
-
-``` sql
-CREATE DATABASE demo;
-USE demo;
-
-CREATE TABLE students(
-    id INT PRIMARY KEY,
-    name VARCHAR(100),
-    age INT
-);
-
-INSERT INTO students VALUES (1,'Alice',20);
-
-SELECT * FROM students;
-
-UPDATE students SET age=21 WHERE id=1;
-
-DELETE FROM students WHERE id=1;
+```text
+SQL/
+├── README.md
+├── 01_basics.sql
+├── 02_crud_operations.sql
+├── 03_filtering_sorting.sql
+├── 04_aggregate_functions.sql
+├── 05_group_by_having.sql
+├── 06_joins.sql
+├── 07_subqueries.sql
+├── 08_cte.sql
+├── 09_window_functions.sql
+├── 10_string_functions.sql
+├── 11_date_functions.sql
+└── practice/
+    ├── beginner.sql
+    ├── intermediate.sql
+    └── advanced.sql
 ```
 
-## Learning Roadmap
+## 🎯 Purpose
 
-1.  SQL Basics
-2.  Table Design
-3.  Filtering & Sorting
-4.  Joins
-5.  Aggregations
-6.  Subqueries
-7.  Views
-8.  Indexes
-9.  Transactions
-10. Procedures & Triggers
+This repository is created to:
 
-## Practice
+- Build strong SQL fundamentals
+- Practice writing queries
+- Prepare for Data Analyst interviews
+- Improve problem-solving skills
+- Maintain a GitHub SQL portfolio
 
-Solve at least 10 SQL problems daily and build small databases.
+## 💡 Example Query
 
-## License
+```sql
+SELECT department, COUNT(*) AS employee_count
+FROM employees
+GROUP BY department
+ORDER BY employee_count DESC;
+```
 
-Free to use for learning.
+## 🚀 How to Use
+
+1. Install MySQL or use an online SQL editor.
+2. Create a database.
+3. Run the SQL files in order.
+4. Modify the queries and experiment with different conditions.
+5. Add your own practice questions and solutions.
+
+## 📌 Placement Preparation
+
+For Data Analyst roles, focus especially on:
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- JOINs
+- Subqueries
+- CTEs
+- Window Functions
+- CASE WHEN
+- Date Functions
+- Aggregate Functions
+
+## 👨‍💻 Author
+
+**Om Katkar**
+
+---
+
+⭐ If this repository helped you practice SQL, consider giving it a star!
