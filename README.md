@@ -68,7 +68,7 @@ Contributions are welcome! Feel free to:
 2. Create a new branch for your changes:
 ```bash
 git checkout -b feature/your-feature-name
-```
+``
 3. Commit your changes with a clear message.
 4. Push to your fork and open a Pull Request.
 
