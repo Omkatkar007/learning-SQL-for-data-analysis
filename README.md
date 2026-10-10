@@ -1,6 +1,6 @@
 # Learning SQL for Data Analysis
 
-Welcome to the **Learning SQL for Data Analysis** repository! This collection provides comprehensive SQL scripts, queries, and learning resources designed to help you master SQL concepts and apply them to real-world data analysis tasks.
+Welcome to the **Learning SQL for Data Analysis** repository! This collection provides comprehensive SQL scripts, queries, and learning resources designed to help you master SQL concepts and apply them to real-world data analysis tasks..
 
 ## Table of Contents
 - [About the Project](#about-the-project)
