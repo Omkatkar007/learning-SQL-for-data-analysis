@@ -103,3 +103,9 @@ FROM test_data;
 
 /* imp note - always use rows betn unbounded procedding and unbounded following in code this give correct last value 
 using partition or other may not give a correct last value */
+
+--  LAG(new_id) OVER(
+        PARTITION BY new_cat 
+        ORDER BY new_id,2
+        ORDER BY new_id,2
+    ) AS "LAG VALUE"
